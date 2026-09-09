@@ -671,8 +671,7 @@
   },
   "Lana Wachowski, Lilly Wachowski": {
     "name": "Lana Wachowski, Lilly Wachowski",
-    "photo": null,
-    "description": ""
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Lana_Wachowski-2787_%283x4_cropped%29.jpg/330px-Lana_Wachowski-2787_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   "Pete Docter": {
     "name": "Pete Docter",
@@ -4357,5 +4356,13 @@
   "Ross Duffer": {
     "name": "Ross Duffer",
     "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Matt_and_Ross_Duffer_%28crop%29.png/330px-Matt_and_Ross_Duffer_%28crop%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Michael Chaves": {
+    "name": "Michael Chaves",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/South_by_Southwest_2019_1_%2847391804251%29_%28cropped%29_%28cropped%29.jpg/330px-South_by_Southwest_2019_1_%2847391804251%29_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "Lana Wachowski": {
+    "name": "Lana Wachowski",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Lana_Wachowski-2787_%283x4_cropped%29.jpg/330px-Lana_Wachowski-2787_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 }
