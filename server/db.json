@@ -1,0 +1,371 @@
+{
+  "users": [
+    {
+      "id": "demo-scifi",
+      "username": "alex_scifi",
+      "password": "password123",
+      "displayName": "Yash Sharma",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "bio": "Sci-Fi & Action enthusiast. Give me time loops, black holes, and synthwave soundtracks.",
+      "createdAt": "2026-01-10T12:00:00Z",
+      "tasteBubble": {
+        "dominantGenres": [
+          "Science Fiction",
+          "Action",
+          "Adventure"
+        ],
+        "underrepresentedGenres": [
+          "Western",
+          "Romance",
+          "Musical",
+          "Animation"
+        ],
+        "favoriteDecades": [
+          "2010s",
+          "2020s"
+        ]
+      },
+      "email": "alex.chen@cinepulse.ai",
+      "tagline": "Lead Cinematographer & Sensory Vector Scout"
+    },
+    {
+      "id": "demo-indie",
+      "username": "maya_cinema",
+      "password": "password123",
+      "displayName": "Maya Lin",
+      "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150&auto=format&fit=crop&q=80",
+      "bio": "Arthouse, foreign dramas, and bittersweet emotional stories that stick with you.",
+      "createdAt": "2026-02-14T12:00:00Z",
+      "tasteBubble": {
+        "dominantGenres": [
+          "Drama",
+          "Romance",
+          "Mystery"
+        ],
+        "underrepresentedGenres": [
+          "Action",
+          "Science Fiction",
+          "Horror",
+          "Family"
+        ],
+        "favoriteDecades": [
+          "2000s",
+          "1990s"
+        ]
+      }
+    },
+    {
+      "id": "demo-casual",
+      "username": "jordan_vibe",
+      "password": "password123",
+      "displayName": "Jordan Taylor",
+      "avatar": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=150&auto=format&fit=crop&q=80",
+      "bio": "Weekend movie nights, feel-good animations, and smart comedies with friends.",
+      "createdAt": "2026-03-01T12:00:00Z",
+      "tasteBubble": {
+        "dominantGenres": [
+          "Animation",
+          "Comedy",
+          "Family"
+        ],
+        "underrepresentedGenres": [
+          "Crime",
+          "Horror",
+          "Western",
+          "Thriller"
+        ],
+        "favoriteDecades": [
+          "1990s",
+          "2010s"
+        ]
+      }
+    }
+  ],
+  "watchedHistory": [
+    {
+      "id": "wh-1788955930463",
+      "userId": "demo-scifi",
+      "movieId": 66732,
+      "title": "Stranger Things",
+      "year": 2016,
+      "poster_path": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Mystery",
+        "Sci-Fi & Fantasy"
+      ],
+      "userRating": 10,
+      "reviewText": "masterpiece :)",
+      "tags": [
+        "Masterpiece",
+        "Deafening Bass"
+      ],
+      "watchedAt": "2026-09-09T12:12:10.463Z"
+    },
+    {
+      "id": "wh-1",
+      "userId": "demo-scifi",
+      "movieId": 157336,
+      "title": "Interstellar",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Science Fiction"
+      ],
+      "userRating": 10,
+      "watchedAt": "2026-02-01T20:00:00Z"
+    },
+    {
+      "id": "wh-2",
+      "userId": "demo-scifi",
+      "movieId": 27205,
+      "title": "Inception",
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Adventure"
+      ],
+      "userRating": 9,
+      "watchedAt": "2026-02-05T21:30:00Z"
+    },
+    {
+      "id": "wh-3",
+      "userId": "demo-scifi",
+      "movieId": 603,
+      "title": "The Matrix",
+      "genres": [
+        "Action",
+        "Science Fiction"
+      ],
+      "userRating": 9,
+      "watchedAt": "2026-02-10T19:00:00Z"
+    },
+    {
+      "id": "wh-4",
+      "userId": "demo-scifi",
+      "movieId": 438631,
+      "title": "Dune",
+      "genres": [
+        "Science Fiction",
+        "Adventure"
+      ],
+      "userRating": 8,
+      "watchedAt": "2026-02-15T22:00:00Z"
+    },
+    {
+      "id": "wh-5",
+      "userId": "demo-scifi",
+      "movieId": 693134,
+      "title": "Dune: Part Two",
+      "genres": [
+        "Science Fiction",
+        "Adventure"
+      ],
+      "userRating": 10,
+      "watchedAt": "2026-02-20T21:00:00Z"
+    },
+    {
+      "id": "wh-6",
+      "userId": "demo-scifi",
+      "movieId": 155,
+      "title": "The Dark Knight",
+      "genres": [
+        "Drama",
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "userRating": 9,
+      "watchedAt": "2026-02-25T20:45:00Z"
+    },
+    {
+      "id": "wh-7",
+      "userId": "demo-indie",
+      "movieId": 194,
+      "title": "Amélie",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "userRating": 9,
+      "watchedAt": "2026-02-02T19:00:00Z"
+    },
+    {
+      "id": "wh-8",
+      "userId": "demo-indie",
+      "movieId": 38,
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "genres": [
+        "Science Fiction",
+        "Drama",
+        "Romance"
+      ],
+      "userRating": 10,
+      "watchedAt": "2026-02-08T20:30:00Z"
+    },
+    {
+      "id": "wh-9",
+      "userId": "demo-indie",
+      "movieId": 496243,
+      "title": "Parasite",
+      "genres": [
+        "Comedy",
+        "Thriller",
+        "Drama"
+      ],
+      "userRating": 10,
+      "watchedAt": "2026-02-14T21:00:00Z"
+    },
+    {
+      "id": "wh-10",
+      "userId": "demo-indie",
+      "movieId": 313369,
+      "title": "La La Land",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Music"
+      ],
+      "userRating": 9,
+      "watchedAt": "2026-02-18T19:15:00Z"
+    },
+    {
+      "id": "wh-11",
+      "userId": "demo-indie",
+      "movieId": 11216,
+      "title": "Cinema Paradiso",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "userRating": 10,
+      "watchedAt": "2026-02-24T20:00:00Z"
+    },
+    {
+      "id": "wh-12",
+      "userId": "demo-casual",
+      "movieId": 150540,
+      "title": "Inside Out",
+      "genres": [
+        "Animation",
+        "Family",
+        "Adventure",
+        "Comedy"
+      ],
+      "userRating": 9,
+      "watchedAt": "2026-02-03T18:30:00Z"
+    },
+    {
+      "id": "wh-13",
+      "userId": "demo-casual",
+      "movieId": 808,
+      "title": "Shrek",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Fantasy",
+        "Family"
+      ],
+      "userRating": 8,
+      "watchedAt": "2026-02-09T19:00:00Z"
+    },
+    {
+      "id": "wh-14",
+      "userId": "demo-casual",
+      "movieId": 129,
+      "title": "Spirited Away",
+      "genres": [
+        "Animation",
+        "Family",
+        "Fantasy"
+      ],
+      "userRating": 10,
+      "watchedAt": "2026-02-16T17:00:00Z"
+    },
+    {
+      "id": "wh-15",
+      "userId": "demo-casual",
+      "movieId": 10681,
+      "title": "WALL·E",
+      "genres": [
+        "Animation",
+        "Family",
+        "Science Fiction"
+      ],
+      "userRating": 9,
+      "watchedAt": "2026-02-22T20:00:00Z"
+    },
+    {
+      "id": "wh-1788687025773",
+      "userId": "default_guest",
+      "movieId": 299536,
+      "title": "Avengers: Infinity War",
+      "genres": [],
+      "userRating": 5,
+      "watchedAt": "2026-09-06T09:30:25.773Z"
+    },
+    {
+      "id": "wh-1788687654825",
+      "userId": "demo-scifi",
+      "movieId": 299534,
+      "title": "Avengers: Endgame",
+      "genres": [
+        "Adventure",
+        "Science Fiction",
+        "Action"
+      ],
+      "userRating": 4,
+      "watchedAt": "2026-09-06T09:40:54.825Z"
+    }
+  ],
+  "watchlists": [
+    {
+      "id": "wl-1788882449407",
+      "userId": "demo-scifi",
+      "movieId": 693134,
+      "title": "Dune: Part Two",
+      "poster_path": "https://image.tmdb.org/t/p/w500/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/original/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg",
+      "vote_average": 8.4,
+      "year": 2024,
+      "release_date": "2024-03-01",
+      "media_type": "movie",
+      "addedAt": "2026-09-08T15:47:29.407Z"
+    },
+    {
+      "id": "wl-1788951721744",
+      "userId": "demo-scifi",
+      "movieId": 112712,
+      "title": "Sex",
+      "poster_path": "https://image.tmdb.org/t/p/w500/af2WkK4PqG09paffASqPeaIw5wH.jpg",
+      "backdrop_path": "https://image.tmdb.org/t/p/original/lMLGb28yyhN31Y0yRBE9LKEacZw.jpg",
+      "vote_average": 5.8,
+      "release_date": "2020-02-03",
+      "year": 2020,
+      "media_type": "tv",
+      "addedAt": "2026-09-09T11:02:01.744Z"
+    }
+  ],
+  "favorites": [
+    {
+      "id": "fav-1",
+      "userId": "demo-scifi",
+      "movieId": 157336,
+      "title": "Interstellar",
+      "poster_path": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+      "addedAt": "2026-02-01T20:30:00Z"
+    },
+    {
+      "id": "fav-2",
+      "userId": "demo-indie",
+      "movieId": 496243,
+      "title": "Parasite",
+      "poster_path": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "addedAt": "2026-02-14T21:30:00Z"
+    }
+  ],
+  "config": {
+    "tmdbApiKey": ""
+  }
+}

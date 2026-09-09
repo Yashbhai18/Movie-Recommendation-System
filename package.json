@@ -1,0 +1,13 @@
+{
+  "name": "cinepulse-movie-recommendation-system",
+  "version": "1.0.0",
+  "description": "CinePulse - Full-Stack Movie Recommendation System (Mood & Context Engine, Out-of-Bubble Surprise Me, and Content-Based Python ML Recommender)",
+  "scripts": {
+    "dev:client": "npm --prefix client run dev",
+    "dev:server": "npm --prefix server run dev",
+    "build": "npm --prefix client run build",
+    "lint": "npm --prefix client run lint",
+    "server": "node server/server.js",
+    "py:recommend": "python main.py"
+  }
+}

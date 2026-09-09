@@ -1,0 +1,42 @@
+# Dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Environment & Secret Configurations (keep API keys safe)
+.env
+*.env
+server/.env
+server/.env.local
+server/.env.production
+client/.env
+client/.env.local
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Build outputs
+dist/
+build/
+client/dist/
+client/build/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs & Temporary Scratchpad
+*.log
+npm-debug.log*
+yarn-debug.log*
+scratch/
